@@ -54,6 +54,7 @@ module.exports = {
 	*/
 	axios:        {
 		// prefix: '/api',
+		baseURL: ''
 	},
 	/*
 	** vuetify module configuration
