@@ -6,4 +6,4 @@ tesseract==0.1.3
 imutils==0.5.3
 memory-profiler==0.55.0
 numpy==1.17.3
-libpng12-0==1.2.54
+http://packages.ubuntu.com/xenial/i386/libpng12-0/download
