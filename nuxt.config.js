@@ -86,9 +86,9 @@ module.exports = {
 		extend(config, ctx) {
 		}
 	},
-	server:       {
-		port: 3003, // default: 3000
-		host: '127.0.0.1' // default: localhost
-	},
+	// server:       {
+	// 	port: 3003, // default: 3000
+	// 	host: '127.0.0.1' // default: localhost
+	// },
 	client:       {}
 };
